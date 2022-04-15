@@ -1,0 +1,8 @@
+1. 1989-----> LeNet
+2. 1998-----> LeNet-5:原有基础加入池化层对输入特征进行筛选
+3. 2012-----> AlexNet
+4. 2014-----> VGGNet
+5. 2015-----> GoogleNet、ResNet
+卷积的核kernel或称过滤器filter,常采用3*3,5*5大小：卷积核大小f / 边界填充（p）adding / 步长（s）tride
+
+
