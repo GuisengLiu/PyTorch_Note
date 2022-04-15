@@ -4,5 +4,7 @@
 4. 2014-----> VGGNet
 5. 2015-----> GoogleNet、ResNet
 卷积的核kernel或称过滤器filter,常采用3*3,5*5大小：卷积核大小f / 边界填充（p）adding / 步长（s）tride
+计算公式：n为输入矩阵的大小 （n-f+2p）/s +1，向下取整
+
 
 
